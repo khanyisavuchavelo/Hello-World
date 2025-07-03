@@ -6,3 +6,4 @@ Or to provide custom queries or build a logic
 
 ****** NOTE ******
 We have attempted to detee t langauges in your respository. Please check
+Languages have been set
