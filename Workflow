@@ -1,0 +1,8 @@
+For most projects, this workflow file not need changing: You need to
+Commit it to your repository
+
+You may wish to alter this file to overifde the set of languages analyzed
+Or to provide custom queries or build a logic
+
+****** NOTE ******
+We have attempted to detee t langauges in your respository. Please check
